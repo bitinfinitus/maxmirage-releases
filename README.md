@@ -17,3 +17,8 @@ Acesse a [última versão](https://github.com/bitinfinitus/maxmirage-releases/re
 | Linux | `MaxMirage-<versão>.AppImage` ou `.deb` |
 
 Os arquivos `latest*.yml` e `.blockmap` são usados pelas atualizações automáticas e não precisam ser baixados.
+
+## Documentos
+
+- [Termos de Uso](https://bitinfinitus.github.io/maxmirage-releases/termos/)
+- [Política de Privacidade](https://bitinfinitus.github.io/maxmirage-releases/privacidade/)
